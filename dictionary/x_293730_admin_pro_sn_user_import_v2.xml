@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="SN User Import v2" max_length="40" name="x_293730_admin_pro_sn_user_import_v2" type="collection">
+        <element attributes="import_attribute_name=Employee Name,edge_encryption_enabled=true" label="Employee Name" max_length="40" name="u_employee_name" type="string"/>
+        <element attributes="import_attribute_name=Forward Motion,edge_encryption_enabled=true" label="Forward Motion" max_length="40" name="u_forward_motion" type="string"/>
+        <element attributes="import_attribute_name=Full-Time/Part-Time,edge_encryption_enabled=true" label="Full-Time/Part-Time" max_length="40" name="u_full_time_part_time" type="string"/>
+        <element attributes="import_attribute_name=Gender,edge_encryption_enabled=true" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Manager,edge_encryption_enabled=true" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element attributes="import_attribute_name=Projects/Clients,edge_encryption_enabled=true" label="Projects/Clients" max_length="40" name="u_projects_clients" type="string"/>
+        <element attributes="import_attribute_name=Role,edge_encryption_enabled=true" label="Role" max_length="40" name="u_role" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Jahnel Group" section_id="d7bd8370db072300f8267fcfbf9619f6" sys_domain="global" table="sys_user" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_293730_admin_pro_business</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-14 20:39:36</sys_created_on>
+            <sys_id>1aed0370db072300f8267fcfbf961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Jahnel Group" display_value="Jahnel Group" name="sys_user" sys_domain="global" view="Default view">d7bd8370db072300f8267fcfbf9619f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-14 20:39:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Jahnel Group</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-14 20:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7bd8370db072300f8267fcfbf9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Jahnel Group</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+            <sys_update_name>sys_ui_section_d7bd8370db072300f8267fcfbf9619f6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-14 20:38:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

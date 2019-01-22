@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="SN User Transform">8ddd31f0db432300f8267fcfbf961988</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	target.setValue('x_293730_admin_pro_business', 'Jahnel Group');
+	var username = source.u_employee_name.replace(' ', '.');
+	target.setValue('user_name', username);
+	
+	var gender = source.u_gender;
+	if (gender === 'M') {
+		target.gender = 'Male';
+	} else if (gender === 'F') {
+		target.gender = 'Female';
+	} else target.gender = 'Not Specified';
+	
+	
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-14 16:45:11</sys_created_on>
+        <sys_id>a1b79670db832300f8267fcfbf961975</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>onAfter</sys_name>
+        <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+        <sys_update_name>sys_transform_script_a1b79670db832300f8267fcfbf961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-15 15:14:28</sys_updated_on>
+        <when>onAfter</when>
+    </sys_transform_script>
+</record_update>

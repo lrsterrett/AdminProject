@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="Jahnel Group Order Guide">7a316d2bdb322300f8267fcfbf961907</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Keys / Code Access">16a51aa7dbb22300f8267fcfbf96197a</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 21:03:17</sys_created_on>
+        <sys_id>27dcea67dbf22300f8267fcfbf961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>16a51aa7dbb22300f8267fcfbf96197a</sys_name>
+        <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_27dcea67dbf22300f8267fcfbf961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 21:03:17</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

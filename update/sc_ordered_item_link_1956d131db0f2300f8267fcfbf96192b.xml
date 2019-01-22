@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ordered_item_link">
+    <sc_ordered_item_link action="INSERT_OR_UPDATE">
+        <link_text>How to Use the Security System</link_text>
+        <link_url>https://dev30818.service-now.com/kb_view.do?sysparm_article=KB0010002</link_url>
+        <name>Security System</name>
+        <sys_class_name>sc_ordered_item_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 14:32:17</sys_created_on>
+        <sys_id>1956d131db0f2300f8267fcfbf96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security System</sys_name>
+        <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+        <sys_update_name>sc_ordered_item_link_1956d131db0f2300f8267fcfbf96192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 14:32:17</sys_updated_on>
+        <target>internal</target>
+    </sc_ordered_item_link>
+</record_update>

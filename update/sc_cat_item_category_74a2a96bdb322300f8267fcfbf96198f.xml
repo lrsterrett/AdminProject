@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Jahnel Group Order Guide">7a316d2bdb322300f8267fcfbf961907</sc_cat_item>
+        <sc_category display_value="Jahnel Group">ae5e0997dbb22300f8267fcfbf9619bb</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 15:38:31</sys_created_on>
+        <sys_id>74a2a96bdb322300f8267fcfbf96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jahnel Group.Jahnel Group Order Guide</sys_name>
+        <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+        <sys_update_name>sc_cat_item_category_74a2a96bdb322300f8267fcfbf96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 15:38:31</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

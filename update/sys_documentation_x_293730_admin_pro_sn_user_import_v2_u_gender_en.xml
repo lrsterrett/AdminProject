@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_gender" label="Gender" language="en" table="x_293730_admin_pro_sn_user_import_v2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gender</element>
+            <help/>
+            <hint/>
+            <label>Gender</label>
+            <language>en</language>
+            <name>x_293730_admin_pro_sn_user_import_v2</name>
+            <plural>Genders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-15 15:27:59</sys_created_on>
+            <sys_id>5b209b0ddb032300f8267fcfbf961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gender</sys_name>
+            <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+            <sys_update_name>sys_documentation_x_293730_admin_pro_sn_user_import_v2_u_gender_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-15 15:27:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

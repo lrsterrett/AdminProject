@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="SN Users Transform">eb8b7673db722300f8267fcfbf961999</map>
+        <reference_value_field/>
+        <source_field>u_gender</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_293730_admin_pro_sn_users_import</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-11 16:49:41</sys_created_on>
+        <sys_id>098cbe73db722300f8267fcfbf9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_gender</sys_name>
+        <sys_package display_value="Admin Project" source="x_293730_admin_pro">2c6f7093db322300f8267fcfbf9619f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Project">2c6f7093db322300f8267fcfbf9619f5</sys_scope>
+        <sys_update_name>sys_transform_entry_098cbe73db722300f8267fcfbf9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-11 16:49:41</sys_updated_on>
+        <target_field>u_gender</target_field>
+        <target_table>x_293730_admin_pro_sn_users</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>
